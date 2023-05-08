@@ -1,6 +1,10 @@
 {
 "Recipes":
 [
-
-]
+  {"Name":"Mac and Cheese","Description":"Classic recipe that is easy to make and delicious to eat.","Ingredients":"Ingredients: Macaroni and cheese","imageName":"Mac_Cheese.jpeg"},
+  {"Name":"Pizza","Description":"An easy recipe for a food that most people love. Pizza offers a cheesy and tasty dinner that most people can make on their own.","Ingredients":"Ingredients: Pizza dough, pizza sauce, and cheese","imageName":"Pizza.jpeg"},
+  {"Name":"Chicken Alfredo Pasta","Description":"This type of pasta is one that most kids and adults love to eat. They are available at all kinds of places but you could also make it at home!","Ingredients":"Ingredients: Chicken, cream, fettuccine, and cheese","imageName":"Pasta.jpeg"},
+  {"Name":"Turkey Sandwich","Description":"An easy recipe that anyone can make! A classic recipe that can be made in just a few minutes. Perfect if you're looking for a quick snack.","Ingredients":"Ingredients: Bread, turkey slice, cheese, lettuce, tomato, mayonnaise","imageName":"Sandwich.jpeg"}
+],
+  "Status":"OK"
 }
